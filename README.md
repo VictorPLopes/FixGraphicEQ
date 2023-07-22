@@ -5,6 +5,8 @@ Recently, I was trying to use [HeSuVi](https://sourceforge.net/projects/hesuvi/)
 <br><br>
 Since I've been wanting to test Rider for a while, and make the switch from Visual Studio, I decided to quickly throw together a project to test it out and solve my problem at the same time. The code is far from perfect, and I'm sure there are better ways to do it, but it works and it was just a quick project to test Rider. **Feel free to use it if you have the same problem as me** or improve it if you want to.
 
+![image](https://github.com/VictorPLopes/FixGraphicEQ/assets/77900343/2c5235db-6b72-4312-8db0-0af327b8cd13)
+
 ## How to use
 
 1. Download the latest release from the [releases page](https://github.com/VictorPLopes/FixGraphicEQ/releases).
