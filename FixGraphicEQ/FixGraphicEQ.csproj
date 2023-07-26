@@ -6,6 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PublishAot>true</PublishAot>
+        <AssemblyVersion>1.1.0</AssemblyVersion>
     </PropertyGroup>
 
 </Project>
